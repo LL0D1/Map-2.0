@@ -3,3 +3,5 @@ John, Below are changes that i've made and the dates i've made them. Feel free t
 11/17/17
 	Started Git and Project
 	Made Land -- Land smoothed out
+11/18/17
+	Baked General Landscape Shape
